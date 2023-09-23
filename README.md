@@ -1,7 +1,7 @@
 <h1 align = "center">
 📂 Formulário de Contato
 </h1>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/version-%20v%200.0.1-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/release%20date-%20april%20-%20purple"> <img alt="Static Badge" src="https://img.shields.io/badge/lisence-%20Marista%20Irm%C3%A3o%20Ac%C3%A1cio%20-%20red">
+<p><img alt="Static Badge" src="https://img.shields.io/badge/version-%20v%200.0.1-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/release%20date-%20september%20-%20purple"> <img alt="Static Badge" src="https://img.shields.io/badge/lisence-%20Marista%20Irm%C3%A3o%20Ac%C3%A1cio%20-%20red">
 </p>
 <p align="center">Website onde você tira suas dúvidas com o desenvolvedor.</p>
 
