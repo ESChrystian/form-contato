@@ -20,9 +20,9 @@
 > ## :raising_hand: Email 
 > Bem como o nome diz, o campo sem preenchimento serve para o usuário inserir seu Email.
 > ## :speech_balloon: Assunto
-> No assunto a pessoa deve colocar o tema da sua dúvida.
+> Em "Assunto" a pessoa deve colocar o tema da sua dúvida.
 > ## :wink: Mensagem
-> Em mensagem o usuário informa ao desenvolvedor sua dúvida para que ocorra a solução do problema.
+> Na área "Mensagem" o usuário informa ao desenvolvedor sua dúvida para que ocorra a solução do problema.
 <h1 align = "center">
 Elementos e Atributos Utilizados
 </h1>
