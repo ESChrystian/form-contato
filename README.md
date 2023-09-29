@@ -8,9 +8,11 @@
 # Mas o que é um Formulário de Contato?
 >O formulário de contato é um dos principais canais por meio do qual os consumidores têm a oportunidade de contatar o desenvolvedor, para esclarecer dúvidas ou prestar serviços, por exemplo.
  
-### Veja como é a interface gráfica do software:
+## Veja como é a interface gráfica do software:
+>
+>
+><img src="Captura de tela 2023-09-29 203248.png" width=800>
 
-![Imagem do site](<Captura de tela 2023-09-22 232921.png>)
 
 ### A interface contém as seguintes informações:
 * Email
@@ -56,7 +58,6 @@ O label é associado pelo seu atributo for, que deve referenciar o identificador
 
 # 5. <*button*>
 A tag <button> em HTML é usada para definir o botão clicável. A tag <button> é usada para enviar o conteúdo.
-
 
 ## Tecnologias utilizadas:
 >* Visual Studio Code
