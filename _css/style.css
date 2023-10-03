@@ -1,97 +1,94 @@
-#area
-{
-  
-  position:relative;
-  left:5%;
-  width:300px;
+#area {
+
+  position: relative;
+  left: 5%;
+  width: 300px;
   top: 30px;
-  
+
 }
-#area #formulario
-{
-  position:absolute;
-  display:block;
-  border-style:solid;
+
+#area #formulario {
+  position: absolute;
+  display: block;
+  border-style: solid;
   border-radius: 40px;
   padding: 50px;
   background-color: white;
 }
-br
-{
-  position:relative;
+
+br {
+  position: relative;
   background-color: rgb(255, 255, 255);
   width: 100%;
-  height:250px;
-  
+  height: 250px;
+
 }
-  
-   
-button{
-    /*Estiliza o botão Enviar.*/
-line-height: 2.5;
-padding: 0 20px;
-font-size: 1rem;
-text-align: center;
-color: #fff;
-text-shadow: 1px 1px 1px #000;
-border-radius: 10px;
-background-color: rgb(152, 152, 152);
-background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
-box-shadow:
-  inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-  inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+
+
+button {
+  /*Estiliza o botão Enviar.*/
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(152, 152, 152);
+  background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+  box-shadow:
+    inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
 }
-h1{
+
+h1 {
   padding-left: 20%;
 }
-#formulario label
-{
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+#formulario label {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   display: inline-block;
-  position:static;
-  left:19px;
-  margin-right:5px;
+  position: static;
+  left: 19px;
+  margin-right: 5px;
 }
 
 
-#formulario input
-{
-  background-color:whitesmoke;
-  left:95px;
-  margin-top:20px;
-  width:500px;
+#formulario input {
+  background-color: whitesmoke;
+  left: 95px;
+  margin-top: 20px;
+  width: 500px;
   display: flex;
 }
+
 h1 {
-  font-weight:bold;
+  font-weight: bold;
   font-family: "Segoe UI";
-  
-}
-#formulario textarea
-{
-  margin-top: 5px;
-  background-color:whitesmoke;
+
 }
 
-#information{
-  position:absolute;
+#formulario textarea {
+  margin-top: 5px;
+  background-color: whitesmoke;
+}
+
+#information {
+  position: absolute;
   display: block;
   padding-left: 65%;
   top: 5%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
-img{
+
+img {
   position: absolute;
   margin-top: -14%;
   left: 0px;
 
 }
-span{
+
+span {
   display: flex;
 }
-  
-
-
-
-
