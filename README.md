@@ -18,7 +18,7 @@
 * Email
 * Assunto
 * Mensagem
-> # Explicação:grey_exclamation:
+> # Explicação :grey_exclamation:
 > ## :raising_hand: Email 
 > Bem como o nome diz, o campo sem preenchimento serve para o usuário inserir seu Email.
 > ## :speech_balloon: Assunto
